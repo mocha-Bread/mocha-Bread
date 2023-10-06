@@ -1,5 +1,5 @@
 ### Hello, world! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient)
+![header](https://capsule-render.vercel.app/api?type=waving)
 <!--
 **mocha-Bread/mocha-Bread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
