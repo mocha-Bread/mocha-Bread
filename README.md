@@ -16,16 +16,10 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="Javascript">
   <br>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-Amazons3-569A31?style=flat-square&logo=Amazons3&logoColor=white" alt="Amazons3">
   
 </p>
 
 
-<h3 align="center">🖱️mouse🖱️</h3>
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/-Razer-00FF00?style=flat-square&logo=Razer&logoColor=white" alt="Razer">
-  
-</p>
 
 
