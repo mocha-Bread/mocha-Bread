@@ -3,7 +3,7 @@
 
 <h2 align="center">🌟This is my space for testing and learning purposes🌟</h2>
 
-<h3 align="center">tech stack</h3>
+<h3 align="center">🛠️tech stack🛠️</h3>
 
 <p align="center">
   
