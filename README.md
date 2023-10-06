@@ -26,4 +26,7 @@
 
 </p>
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocha-Bread)](https://github.com/mocha-Bread/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocha-Bread)](https://github.com/mocha-Bread/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-Bread)](https://github.com/mocha-Bread/github-readme-stats)
+
