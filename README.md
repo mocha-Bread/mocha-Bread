@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-Html5-E34F26?style=flat-square&logo=Html5&logoColor=white" alt="Html5">
   <img src="https://img.shields.io/badge/-Css3-1572B6?style=flat-square&logo=Css3&logoColor=white" alt="Css3">
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="javascript">
+  
   
 </p>
 
