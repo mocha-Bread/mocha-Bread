@@ -19,7 +19,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/-Flask-#000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
 
 </p>
 
