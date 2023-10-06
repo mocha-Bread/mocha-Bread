@@ -23,7 +23,9 @@
 <h3 align="center">🖱️mouse🖱️</h3>
 
 <p align="center">
+  
   <img src="https://img.shields.io/badge/-Razer-00FF00?style=flat-square&logo=Razer&logoColor=white" alt="Razer">
+  
 </p>
 
 
