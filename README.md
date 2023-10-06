@@ -1,5 +1,5 @@
 ### Hello, world! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=mocha-Bread&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=mocha-Bread&fontAlign=72)
 
 <h2 align="center">🌟This is my space for testing and learning purposes🌟</h2>
 
