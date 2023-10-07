@@ -15,16 +15,12 @@
   <img src="https://img.shields.io/badge/-Css3-1572B6?style=flat-square&logo=Css3&logoColor=white" alt="Css3">
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="Javascript">
   <br>
-</p>
-
-<h3 align="center">🔧tool🔧</h3>
-
-<p align="center">
-
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-Amazons3-569A31?style=flat-square&logo=Amazons3&logoColor=white" alt="Amazons3">
-
+  
 </p>
+
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocha-Bread)](https://github.com/mocha-Bread/github-readme-stats)-->
 
