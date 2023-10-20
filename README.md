@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=mocha-Bread&fontAlign=70&fontColor=ffffff&color=0:a18cd1,100:fbc2eb)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=mocha-Bread&fontAlign=70&fontColor=ffffff&color=0:fbc2eb,100:a6c1ee,to-top,linear-gradient)
 
 <h2 align="center">🌟This is my space for testing and learning purposes🌟</h2>
 
