@@ -1,5 +1,25 @@
 ### Hello, world! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=mocha-Bread&fontAlign=70)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .header {
+            background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+            height: 180px;
+            text-align: right;
+            line-height: 180px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        mocha-Bread
+    </div>
+</body>
+</html>
+
 
 <h2 align="center">🌟This is my space for testing and learning purposes🌟</h2>
 
