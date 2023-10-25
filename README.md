@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=mocha-Bread&fontAlign=70&fontColor=ffffff&color=0:fbc2eb,90:a6c1ee&animation=fadeIn)
 
 <h2 align="center">🌟This is my space for testing and learning purposes🌟</h2>
+<h2 align="center">🌟이곳은 제가 공부&프로젝트&git연습에 사용하는 곳입니다! 🌟</h2>
 
 <h3 align="center">🛠️tech stack🛠️</h3>
 
